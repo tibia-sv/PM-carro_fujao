@@ -1,4 +1,4 @@
-# PM-carro_fujao
+# PequiMecanico - Carro fujão
 Código para atividade de aprendizagem; 
 Código feito para o Arduino UNO;
 
